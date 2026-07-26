@@ -11,8 +11,8 @@ This program demonstrates a base class `TextBase` for storing and analyzing text
 ## How to Compile and Run
 
 ```bash
-g++ main.cpp -o out
-./out
+g++ main.cpp -o main
+./main
 ```
 
 ## Example Usage
