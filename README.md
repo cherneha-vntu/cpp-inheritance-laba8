@@ -5,15 +5,18 @@ This project is a laboratory/practical work for the "Computer Technologies and P
 ## Programs Included
 
 ### 1. Text Data Modifier (`task1.cpp`)
+
 This program demonstrates a base class `TextBase` for storing and analyzing text (counting words, characters, spaces, and removing extra spaces), and a derived class `TextModifier` that inherits these capabilities and adds the ability to insert a substring into a specific position in the text.
 
 ## How to Compile and Run
+
 ```bash
 g++ task1.cpp -o out
 ./out
 ```
 
 ## Example Usage
+
 ```text
 Hello     world!
 This   is   a   simple   inheritance.
@@ -44,4 +47,5 @@ Contributions are welcome and appreciated! Here's how you can contribute:
 Please make sure to update tests as appropriate and adhere to the existing coding style.
 
 ## License
+
 This project is licensed under the CSSM Unlimited License v2.0 (CSSM-ULv2). See the [LICENSE](LICENSE) file for details.
