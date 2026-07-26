@@ -4,14 +4,14 @@ This project is a laboratory/practical work for the "Computer Technologies and P
 
 ## Programs Included
 
-### 1. Text Data Modifier (`task1.cpp`)
+### 1. Text Data Modifier (`main.cpp`)
 
 This program demonstrates a base class `TextBase` for storing and analyzing text (counting words, characters, spaces, and removing extra spaces), and a derived class `TextModifier` that inherits these capabilities and adds the ability to insert a substring into a specific position in the text.
 
 ## How to Compile and Run
 
 ```bash
-g++ task1.cpp -o out
+g++ main.cpp -o out
 ./out
 ```
 
