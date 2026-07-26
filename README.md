@@ -1,4 +1,4 @@
-# Simple Inheritance
+# Lab Work 8: Simple Inheritance in C++
 
 This project is a laboratory/practical work for the "Computer Technologies and Programming" course. It contains an implementation of a simple inheritance hierarchy for processing text data, written in C++.
 
