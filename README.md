@@ -19,6 +19,7 @@ g++ main.cpp -o main
 
 ![Execution Screenshot](screenshot.png)
 
+Example run of **`main.cpp`**:
 ```text
 Hello     world!
 This   is   a   simple   inheritance.
