@@ -17,8 +17,6 @@ g++ main.cpp -o main
 
 ## Example Usage
 
-![Execution Screenshot](screenshot.png)
-
 Example run of **`main.cpp`**:
 ```text
 Hello     world!
@@ -36,6 +34,8 @@ Hello world!
 This is wonderful example of a simple inheritance.
 C++
 ```
+
+![Execution Screenshot](screenshot.png)
 
 ## Contributing
 
