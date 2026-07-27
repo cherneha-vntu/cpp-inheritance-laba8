@@ -35,7 +35,7 @@ This is wonderful example of a simple inheritance.
 C++
 ```
 
-![Execution Screenshot](screenshot.png)
+![Execution demonstration](screenshot.png)
 
 ## Contributing
 
