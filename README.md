@@ -17,6 +17,8 @@ g++ main.cpp -o main
 
 ## Example Usage
 
+![Execution Screenshot](screenshot.png)
+
 ```text
 Hello     world!
 This   is   a   simple   inheritance.
